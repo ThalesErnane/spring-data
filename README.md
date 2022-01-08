@@ -1,7 +1,7 @@
 # spring-data
-## Curso de Spring Data JPA: Repositórios, Consultas, Projeções e Specifications
+# Curso de Spring Data JPA: Repositórios, Consultas, Projeções e Specifications
 
-# Neste Curso você aprende sobre: 
+## Neste Curso você aprende sobre: 
 
 ### Derived Query - queries criadas através de comandos Java
 ### JPQL - queries criadas através de uma estrutura SQL, porém com os nomes das entidades Java
